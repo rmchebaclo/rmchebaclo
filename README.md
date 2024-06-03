@@ -1,0 +1,1 @@
+Hi! I am Roy Chebaclo a CS student at UC Berkeley. I am interning with Thomson Reuters as a Software Engineer this summer in Eagan, MN where I am working in AWS and Python. I am passionate about software developemnt and look forward to developing my skills. Please check out my repos to see some of the projects that I have worked on!
