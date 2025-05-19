@@ -1,1 +1,1 @@
-Hello! I am Roy Chebaclo a Junior CS student at UC Berkeley. I am super passionate about software development and look forward to developing my skills. Please check out my repos to see some of the projects that I have worked on!
+Hello! I am Roy Chebaclo a CS student at UC Berkeley. I am super passionate about software development and look forward to developing my skills. Please check out my repos to see some of the projects that I have worked on!
